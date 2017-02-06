@@ -1,0 +1,4 @@
+config:
+  items:
+    - value1
+    - value2
